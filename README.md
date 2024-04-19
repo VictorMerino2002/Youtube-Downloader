@@ -4,9 +4,8 @@ Youtube-Downloader-API is a node-js opensource code for download the video or th
 
 ## How to use
 To download the content of a video you need de video ID:
-```
-https://www.youtube.com/watch?v=jNQXAC9IVRw ---> **jNQXAC9IVRw **
-```
+![me-at-the-zoo](https://github.com/VictorMerino2002/Youtube-Downloader/assets/148786108/91a75331-9052-4e52-a59e-f38a98239760)
+
 Once you have de ID, use the route "/video" or "/audio" depending of what u need and write "?id=" and paste the video ID :
 
 ### Video:
